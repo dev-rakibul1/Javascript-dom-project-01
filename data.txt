@@ -1,0 +1,10 @@
+[
+    "rakibul": {
+        'name' :' Rakibul Islam',
+        'age' : 23,
+        'profession' : 'Software developer'
+        'address' : 'Sherpur sadar'
+
+    }
+]
+
